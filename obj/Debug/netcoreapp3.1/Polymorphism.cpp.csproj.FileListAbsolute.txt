@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\obj\Debug\netcoreapp3.1\Polymorphism.cpp.csprojAssemblyReference.cache
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\obj\Debug\netcoreapp3.1\Polymorphism.cpp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\obj\Debug\netcoreapp3.1\Polymorphism.cpp.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\obj\Debug\netcoreapp3.1\Polymorphism.cpp.AssemblyInfo.cs
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\bin\Debug\netcoreapp3.1\Polymorphism.cpp.exe
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\bin\Debug\netcoreapp3.1\Polymorphism.cpp.deps.json
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\bin\Debug\netcoreapp3.1\Polymorphism.cpp.runtimeconfig.json
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\bin\Debug\netcoreapp3.1\Polymorphism.cpp.runtimeconfig.dev.json
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\bin\Debug\netcoreapp3.1\Polymorphism.cpp.dll
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\bin\Debug\netcoreapp3.1\Polymorphism.cpp.pdb
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\obj\Debug\netcoreapp3.1\Polymorphism.cpp.dll
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\obj\Debug\netcoreapp3.1\Polymorphism.cpp.pdb
+C:\Users\ASUS\Documents\Yonas\InheritanceTugas\InheritanceTugas\Polymorphism.cpp\Polymorphism.cpp\obj\Debug\netcoreapp3.1\Polymorphism.cpp.genruntimeconfig.cache
